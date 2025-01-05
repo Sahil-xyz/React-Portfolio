@@ -4,9 +4,9 @@ import portfolioProject from "../assets/portfolio_pro.png";
 
 const Projects = () => {
   return (
-    <div className="min-h-screen bg-slate-200 py-10">
+    <div className="min-h-screen bg-gradient-to-r from-zinc-50 via-fuchsia-100 to-teal-50 py-10">
       <div className="container mx-auto px-5">
-        <h1 className="text-7xl font-bold text-center text-slate-800 mb-10">
+        <h1 className="text-7xl font-bold text-center bg-gradient-to-br from-red-600 to-slate-700 bg-clip-text text-transparent mb-10">
           My Projects
         </h1>
 
